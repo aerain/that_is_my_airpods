@@ -25,6 +25,7 @@
         app:srcCompat="@drawable/ic_earbuds"
         android:src="@drawable/ic_earbuds"/>
     <Button
+        android:id="@+id/overlay_fine_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp"
